@@ -1,8 +1,8 @@
-# Async / Await and Fetch practice
+# Kanye Rest API - Quote Generator App
 
-Practicing my newly learnt async await and fetch API knowledge in a task given by SOC
+Practicing my newly learnt async await and fetch API knowledge to create a random Kanye quote generator app.
 
-### Task
+### Async / Await and Fetch practice
 
 - Fetch data from https://api.kanye.rest/ containing a quote and then on the given website have it set to the h1 of the page and on click of the button to give you a new quote, aka a new header each time.
 
